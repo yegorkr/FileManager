@@ -1,0 +1,11 @@
+C:\Users\Banana\documents\visual studio 2015\Projects\FileManager\FileManager\bin\Release\FileManager.exe.config
+C:\Users\Banana\documents\visual studio 2015\Projects\FileManager\FileManager\bin\Release\FileManager.exe
+C:\Users\Banana\documents\visual studio 2015\Projects\FileManager\FileManager\bin\Release\FileManager.pdb
+C:\Users\Banana\documents\visual studio 2015\Projects\FileManager\FileManager\obj\Release\test__.Form1.resources
+C:\Users\Banana\documents\visual studio 2015\Projects\FileManager\FileManager\obj\Release\test__.Form2.resources
+C:\Users\Banana\documents\visual studio 2015\Projects\FileManager\FileManager\obj\Release\test__.Form3.resources
+C:\Users\Banana\documents\visual studio 2015\Projects\FileManager\FileManager\obj\Release\test__.Form4.resources
+C:\Users\Banana\documents\visual studio 2015\Projects\FileManager\FileManager\obj\Release\FileManager.Properties.Resources.resources
+C:\Users\Banana\documents\visual studio 2015\Projects\FileManager\FileManager\obj\Release\FileManager.csproj.GenerateResource.Cache
+C:\Users\Banana\documents\visual studio 2015\Projects\FileManager\FileManager\obj\Release\FileManager.exe
+C:\Users\Banana\documents\visual studio 2015\Projects\FileManager\FileManager\obj\Release\FileManager.pdb

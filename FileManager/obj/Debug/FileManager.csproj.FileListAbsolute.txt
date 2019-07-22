@@ -1,0 +1,16 @@
+c:\users\banana\documents\visual studio 2015\Projects\FileManager\FileManager\bin\Debug\FileManager.exe.config
+c:\users\banana\documents\visual studio 2015\Projects\FileManager\FileManager\obj\Debug\test__.Form1.resources
+c:\users\banana\documents\visual studio 2015\Projects\FileManager\FileManager\obj\Debug\FileManager.Properties.Resources.resources
+c:\users\banana\documents\visual studio 2015\Projects\FileManager\FileManager\obj\Debug\FileManager.csproj.GenerateResource.Cache
+c:\users\banana\documents\visual studio 2015\Projects\FileManager\FileManager\bin\Debug\FileManager.exe
+c:\users\banana\documents\visual studio 2015\Projects\FileManager\FileManager\bin\Debug\FileManager.pdb
+c:\users\banana\documents\visual studio 2015\Projects\FileManager\FileManager\obj\Debug\FileManager.exe
+c:\users\banana\documents\visual studio 2015\Projects\FileManager\FileManager\obj\Debug\FileManager.pdb
+c:\users\banana\documents\visual studio 2015\Projects\FileManager\FileManager\obj\Debug\FileManager.csprojResolveAssemblyReference.cache
+C:\Users\Banana\Documents\Visual Studio 2015\Projects\FileManager\FileManager\obj\Debug\test__.FormTextEditor.resources
+C:\Users\Banana\Documents\Visual Studio 2015\Projects\FileManager\FileManager\obj\Debug\test__.FormSearch.resources
+C:\Users\Banana\Documents\Visual Studio 2015\Projects\FileManager\FileManager\obj\Debug\test__.FormMerge.resources
+C:\Users\Banana\Documents\Visual Studio 2015\Projects\FileManager\FileManager\obj\Debug\test__.FormStringSearch.resources
+C:\Users\Banana\Documents\Visual Studio 2015\Projects\FileManager\FileManager\obj\Debug\test__.FormTable.resources
+C:\Users\Banana\Documents\Visual Studio 2015\Projects\FileManager\FileManager\obj\Debug\test__.FormSaveas.resources
+C:\Users\Banana\Documents\Visual Studio 2015\Projects\FileManager\FileManager\obj\Debug\test__.FormFilter.resources
